@@ -7,7 +7,6 @@ tags:
   - Pandas
   - Python
 ---
-> [!example] [[README|General Base]] >> [[1_Soft/README|Base #1]] >> [[2_Hard/README|Base #2]] >> [[3_Python/README|Base #3]]
 
 
 ##### Начало

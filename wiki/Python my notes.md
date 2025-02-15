@@ -1,4 +1,13 @@
-##### Работа с датой и временем
+---
+created: 2025.01.27
+author:
+  - s1gle
+tags:
+  - Pandas
+  - Python
+---
+
+# Работа с датой и временем
 
 ```python
 import datetime as DT
