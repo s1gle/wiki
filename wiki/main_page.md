@@ -15,7 +15,8 @@ tags: home
 - _IPython_ интерактивное выполнения и совместное использования кода
 - _Scikit-Learn_ машинное обучение
 - [IDLE](IDLE.md) среда разработки для написания кода на языке Python. 
-- *GUI*
+- *GUI* = fefge
+
 # Документация
 - https://docs.python.org/3/tutorial/index.html Учебник Python
 - https://pandas.pydata.org/docs/index.html Pandas
