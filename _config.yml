@@ -92,11 +92,13 @@ defaults:
     scope:
       path: ""
       type: "posts"
+      rss:
     values:
       layout: "git-wiki-post"
  -
     scope:
       path: assets/blog
+      rss:
     values:
       layout: "git-wiki-blog"
 sass:
