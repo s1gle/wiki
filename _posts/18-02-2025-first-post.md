@@ -5,7 +5,7 @@ tags:
   - jekyll
   - github
 ---
-# :milky_way:Список эмоджи
+# Список эмоджи
 <div class="overflow-table" markdown="block">
 People
 
