@@ -1,4 +1,5 @@
 ---
+title: jemoji
 published: true
 date: 18-02-2025
 tags:
