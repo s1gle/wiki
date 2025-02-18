@@ -1,14 +1,15 @@
 ---
 title: jemoji
 published: true
-date: 18-02-2025
+date: 2025-02-18
 tags:
   - jekyll
   - github
 ---
 # Список эмоджи
-<div class="overflow-table" markdown="block">
 People
+<div class="overflow-table" markdown="block">
+
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
