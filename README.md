@@ -1,7 +1,5 @@
 # git-wiki
 
-Git-wiki is a **modular and full featured wiki** powered by Git, [GitHub](https://pages.github.com/)/[Gitlab](https://about.gitlab.com/product/pages/) Pages and pull requests!
-
 The git-wiki project is composed by 3 different repository:
 
 - [git-wiki-theme](https://github.com/Drassil/git-wiki-theme): This is the repository of the theme that implements the wiki functionalities. You would have not fork it unless you need to send a Pull Request or create your wiki project from scratch.
@@ -9,18 +7,6 @@ The git-wiki project is composed by 3 different repository:
 - [git-wiki-skeleton](https://github.com/Drassil/git-wiki-skeleton): This is the repo that you should fork or use as a template. It uses the [jekyll remote theme](https://github.com/benbalter/jekyll-remote-theme) functionality that allows you to create your own wiki based on git-wiki-theme. By using the remote functionality you can automatically keep your wiki always updated with latest features from the **git-wiki-theme**, but you can also fully customize it. 
 
 - [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
-
-## Getting started
-
-The easier and faster way to use git-wiki is the "skeleton" method.
-
-**You don't need to install anything locally!**
-
-1. Simply fork/clone [skeleton repo](https://github.com/Drassil/git-wiki-skeleton) or click on the "Use this template" button to create your copy of the skeleton project.
-
-2. Edit _config.yml and other pages as you need and then deploy it on GitHub/Gitlab Pages.
-
-**Done**! Now wait that your page will be published and you're ready **_to wiki_**!
 
 ## Features 
 
@@ -39,12 +25,3 @@ The easier and faster way to use git-wiki is the "skeleton" method.
 * Integrated **Blogging** feature thanks to Jekyll!
 * Automatically generated **TOC**!
 * You can download the entire wiki for **offline** usage and even navigate directly using a Markdown reader!
-
-
-You can use it with the Jekyll ["remote_theme"](https://github.com/benbalter/jekyll-remote-theme) feature or fork/copy the master branch and start your wiki in just 1 minute.
-
-
-
-Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
-
-

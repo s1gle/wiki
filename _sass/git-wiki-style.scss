@@ -5,9 +5,9 @@
 body {
   /* background-color: #fff; */
   padding: 50px;
-  font: 16px/1.3 Arial, "Helvetica Neue", "Noto Sans", Helvetica, sans-serif;
-  color: #727272;
-  font-weight: 500;
+  font: 16px/1.3 Consolas, Arial, "Helvetica Neue", "Noto Sans", Helvetica, sans-serif;
+  color: #000;
+  font-weight: 700;
 }
 
 h1,
@@ -84,9 +84,9 @@ blockquote {
 
 code,
 pre {
-  font-family: Terminal, Monaco, Bitstream Vera Sans Mono, Lucida Console, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: Terminal, Monaco, Bitstream Vera Sans Mono, 'Lucida Console', Consolas, Liberation Mono, DejaVu Sans Mono, 'Courier New', monospace;
   color: #333;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 pre {
