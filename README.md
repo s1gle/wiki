@@ -10,18 +10,18 @@ The git-wiki project is composed by 3 different repository:
 
 ## Features 
 
-* Improvements in the **cooperative** aspect: forks, pull requests and roles.
-* You can **customize your wiki** as you want with stylesheets and even changing the layout (see customization section below).
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to GitHub/Gitlab Pages and Jekyll Server Side Generation process!
-* **Markdown and HTML** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
-* [External links](http://example.com) get the right icon automatically.
-* **Component system with hooks** that allows you to completely customize your wiki UI (see customization section below).
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration (see customization section below).
-* Integrated **Blogging** feature thanks to Jekyll!
-* Automatically generated **TOC**!
-* You can download the entire wiki for **offline** usage and even navigate directly using a Markdown reader!
+* Улучшения в **кооперативном** аспекте: форки, запросы на включение и роли.
+* Вы можете **настроить свою вики** по своему усмотрению, используя таблицы стилей и даже изменяя макет (см. раздел настройки ниже).
+* **Никаких баз данных!** Только статические файлы, которые можно скачать за несколько секунд.
+* **Невероятно быстро** и бесплатно благодаря GitHub/Gitlab Pages и процессу генерации серверной части Jekyll!
+* **Markdown и HTML** смешаны вместе!
+* **Несколько бесплатных поисковых систем!** на статическом сайте!
+* **История, сравнение версий** и все, что вам нужно от вики-платформы.
+* Вы можете **редактировать свои страницы** с помощью стандартного редактора git, prose.io (встроенного) или любого другого редактора, который вы предпочитаете.
+* Несуществующие ссылки на вики-страницы — «[красные](red.md)», вы можете **щелкнуть по ним, чтобы автоматически создать новую страницу**!
+* [Внешние ссылки](http://example.com) автоматически получают правильный значок.
+* **Система компонентов с крючками**, позволяющая полностью настроить пользовательский интерфейс вики (см. раздел настройки ниже).
+* Несколько **приятных внутренних тем**, позволяющих изменить весь пользовательский интерфейс вики с помощью одной простой настройки (см. раздел настройки ниже).
+* Интегрированная функция **ведения блога** благодаря Jekyll!
+* Автоматически генерируется **TOC**!
+* Вы можете загрузить всю вики для **офлайн** использования и даже напрямую перемещаться по ней с помощью программы чтения Markdown!
