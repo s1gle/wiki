@@ -5,7 +5,7 @@ description: WikiStorage
 # default lang
 lang: ru-RU
 # set your timezone
-timezone: Europe/Moscow 
+#timezone: Europe/Moscow 
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
