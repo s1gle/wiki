@@ -5,6 +5,9 @@
 
     {% include git-wiki/components/copyrights/copyrights.html %}
 
+    {% assign user="s1gle" %}
+        {% avatar {{ user }} %}
+
     {% if site.inc_after_footer %}
     {% include {{ site.inc_after_footer }} %}
     {% endif %}
