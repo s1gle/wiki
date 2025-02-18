@@ -1,13 +1,6 @@
 ---
-source: 'https://numpy.org/doc/stable/user/index.html'
-author: null
-created: {}
-description: "NumPy\_(\_Numerical Python\_) — универсальный стандарт для работы с числовыми данными в Python, лежащий в основе научных экосистем Python и PyData."
-tags:
-  - Python
-  - Program
-published: false
-publised: true
+layout: git-wiki-post
+tags: [Python, Program]
 date: 18-02-2025
 ---
 
