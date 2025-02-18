@@ -1,7 +1,5 @@
 ---
 title: jemoji
-layout: git-wiki-post
-published: true
 date: 2025-02-18
 tags:
   - jekyll
