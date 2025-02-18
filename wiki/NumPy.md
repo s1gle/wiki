@@ -1,16 +1,17 @@
 ---
-source: https://numpy.org/doc/stable/user/index.html
-author: 
-created: 2025-01-26
-description: NumPy ( Numerical Python ) — универсальный стандарт для работы с числовыми данными в Python, лежащий в основе научных экосистем Python и PyData.
+source: 'https://numpy.org/doc/stable/user/index.html'
+author: null
+created: {}
+description: "NumPy\_(\_Numerical Python\_) — универсальный стандарт для работы с числовыми данными в Python, лежащий в основе научных экосистем Python и PyData."
 tags:
   - Python
   - Program
 ---
 
+# NumPy
 Библиотека NumPy содержит многомерные массивы и матричные структуры данных. NumPy можно использовать для выполнения множества математических операций с массивами. Он добавляет в Python мощные структуры данных, гарантирующие эффективные вычисления с массивами и матрицами, и предоставляет огромную библиотеку высокоуровневых математических функций, которые работают с этими массивами и матрицами.
 
-##### Начало
+## Начало
 ```python
 pip install numpy # установка
 import numpy as np # импорт
