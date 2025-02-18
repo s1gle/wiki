@@ -1,10 +1,8 @@
 ---
-created: 2025.01.27
-author:
-  - s1gle
-tags:
-  - Pandas
-  - Python
+title: Python my notes
+created: 2025-01-27
+author: [s1gle]
+tags: [Python]
 ---
 
 # Работа с датой и временем
