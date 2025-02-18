@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 18-02-2025
 tags:
   - jekyll
   - github
