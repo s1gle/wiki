@@ -17,9 +17,10 @@ tags: home
 - *GUI* = fefge
 
 # Документация
-- https://docs.python.org/3/tutorial/index.html Учебник Python
-- https://pandas.pydata.org/docs/index.html Pandas
-- https://matplotlib.org/ Matplotlib
+- [Books](https://ipython.org/books.html)
+- (https://docs.python.org/3/tutorial/index.html)[Учебник Python]
+- (https://pandas.pydata.org/docs/index.html)[Pandas]
+- (https://matplotlib.org/)[Matplotlib]
 
 # Основная папка с материалами для изучения python_project
 На сегодняшний день в ней четыре отдельные папки
