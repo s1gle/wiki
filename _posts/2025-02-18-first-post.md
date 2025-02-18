@@ -1,9 +1,11 @@
 ---
 published: true
-date: 2025-02-18
-tags: [jekyll, github]
+date: {}
+tags:
+  - jekyll
+  - github
 ---
-# Список эмоджи
+# :milky_way:Список эмоджи
 <div class="overflow-table" markdown="block">
 People
 
