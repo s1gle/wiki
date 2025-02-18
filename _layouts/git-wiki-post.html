@@ -5,10 +5,11 @@ layout: git-wiki-default
 <span>{{ page.date | date: "%-d %B %Y" }}</span>
 {% if page.author or site.author %}
 <p class="view">by {{ page.author | default: site.author }}</p>
+{% endif %}
+
+{{content}}
 {% if page.tags.size > 0 %}
   <span style="color: brown">tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></span>
-{{content}}
-
 {% endif %}
 
 
