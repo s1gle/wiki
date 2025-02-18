@@ -1,5 +1,5 @@
 ---
-title: 50 оттенков matplotlib
+title: ттенков matplotlib
 author: [s1gle]
 date: 2019-09-21
 created: 2025-01-26
