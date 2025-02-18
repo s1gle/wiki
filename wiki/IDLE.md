@@ -1,4 +1,5 @@
 ---
+layout: git-wiki-default
 source: https://skillbox.ru/media/code/osnovy-idle-v-python-ot-zapuska-do-pervoy-programmy/
 author: 
 created: 2025-01-28
