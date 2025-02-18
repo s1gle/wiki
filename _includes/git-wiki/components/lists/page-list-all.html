@@ -7,7 +7,7 @@
     }} updated) {% endif %}:</span>
     <ul class="page-list-all">
         {% assign numPages=0 %}
-        {% assign items = site.html_pages %}
+        {% assign items = site.html_pages | sort: 'title' %}
         {% for page in items %}
         {% if numPages >= site.show_wiki_all_pages_limit %}
         {% break %}
