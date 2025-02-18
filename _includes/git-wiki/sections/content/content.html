@@ -9,6 +9,8 @@
     {% include {{ site.inc_before_content }} %}
     {% endif %}
 
+    {% assign user="s1gle" %}{% avatar {{ user }} %}
+    
     <div id="git-wiki-content">
       {{ content }}
     </div>
