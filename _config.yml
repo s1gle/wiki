@@ -2,6 +2,10 @@
 title: WS
 # (string) Description of your wiki
 description: WikiStorage
+# default lang
+lang: ru-RU
+# set your timezone
+timezone: Europe/Moscow 
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -9,6 +13,7 @@ show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 #
+show_wiki_all_pages: true
 show_wiki_all_pages_limit: 100
 # (boolean) Enable/disable blog feature
 blog_feature: true

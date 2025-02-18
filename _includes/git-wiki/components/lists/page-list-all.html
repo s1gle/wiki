@@ -1,9 +1,10 @@
 <div class="git-wiki-page-list-all">
-    {% if site.inc_before_page_list %}
-    {% include {{ site.inc_before_page_list }} %}
+    {% if site.inc_before_page_list_all %}
+    {% include {{ site.inc_before_page_list_all }} %}
     {% endif %}
 
-    <span class="page-list-all-title">All pages</span>
+    <span class="page-list-all-title">All pages {% if (site.show_wiki_all_pages_limit >= 1 %} (Latest {{site.show_wiki_all_pages_limit
+    }} updated) {% endif %}:</span>
     <ul class="page-list-all">
         {% assign numPages=0 %}
         {% assign items = site.html_pages | sort: 'tags' | reverse %}
@@ -22,7 +23,7 @@
         {% endfor %}
     </ul>
 
-    {% if site.inc_after_page_list %}
-    {% include {{ site.inc_after_page_list }} %}
+    {% if site.inc_after_page_list_all %}
+    {% include {{ site.inc_after_page_list_all }} %}
     {% endif %}
 </div>
