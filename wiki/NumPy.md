@@ -1,5 +1,4 @@
 ---
-layout: git-wiki-post
 tags: [Python, Program]
 date: 18-02-2025
 ---
